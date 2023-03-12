@@ -13,8 +13,7 @@ spectral_clustering.py: main program of the second part.
 		(Please make sure all .py and .csv files are in the same directory!)
 		(Please make sure you have numpy,seaborn,matplotlib,sklearn installed in your python!)
 		     You have 4 input options:
-		     If you input "1", you will see the results of section 2.1 of our report. (if you don't have sklearn installed, this section is not available.)
-	                     If you input "2", you will see the results of section 2.2 of our report. (running time is around 3 minutes, mostly contributed by creating kernel matrix)
+		     If you input "1", you will see the results of section 2.1 of our report. (if you don't have sklearn installed, this section is not available.)                                    If you input "2", you will see the results of section 2.2 of our report. (running time is around 3 minutes, mostly contributed by creating kernel matrix)
 	                     If you input "3", you will see the results of section 2.3 of our report. (running time is around 2 minutes, mostly contributed by creating kernel matrix)
 	                     If you input "4", you will see the comparison of two eigensolvers: numpy.linalg.eig and our own lanczos eigensolver. (running time is around 1 minute, mostly contributed by creating kernel matrix)
 
