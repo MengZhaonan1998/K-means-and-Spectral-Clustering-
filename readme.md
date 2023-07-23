@@ -12,14 +12,14 @@ This project is the homework of the TU Delft course 'Linear Algebra and Optimiza
 The folder Kmeans_Clustering contains:
 * Kmeans_clustering.py
 * EastWestAirlinesCluster.csv
-* readme.txt
+* readme.md
     
 The folder SpectralClustering contains:
 * spectral_clustering.py
 * Kmeans_eucl.py
 * LanczosSolver.py
 * EastWestAirlinesCluster.csv
-* readme.txt
+* readme.md
 
 ### Dependencies
 
@@ -36,5 +36,5 @@ To run the program you need to make sure that you have installed the Python pack
 
 ### Executing program
 
-Please follow the instructions in the readme.txt file under each folder to run the program.
+Please follow the instructions in the readme.md file under each folder to run the program.
 
