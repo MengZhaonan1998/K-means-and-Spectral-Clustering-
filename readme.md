@@ -1,29 +1,40 @@
-Project 1 by Zuhair, Zhaonan Meng, Alvedian Mauditra Aulia Matin
+# K-means Clustering and Spectral Clustering
 
-In this archive, you will find one .txt file and two folders:
+This project is contributed by Zhaonan Meng, Alvedian Mauditra Aulia Matin, and Zuhair
 
-	--------------readme.txt--------------
-	-----------Kmeans_Clustering----------
-	-----------SpectralClustering---------
+## Description
 
-Please open each folder.
+This project is the homework of the TU Delft course 'Linear Algebra and Optimization for Machine Learning.' In this project, we studied a classical unsupervised learning algorithm: clustering. Various clustering algorithms were investigated based on a small data set, including K-means (standard Euclidean distance / kernelized distance) clustering and spectral clustering. Further outcomes of the project can be found in the PDF file 'project1.pdf' in this repository.
 
-1) The folder Kmeans_Clustering contains:
+## Getting Started
 
-	-------------readme.txt---------------
-	--------Kmeans_clustering.py----------
-	------EastWestAirlinesCluster.csv-----
+### Hierarchy
+The folder Kmeans_Clustering contains:
+* Kmeans_clustering.py
+* EastWestAirlinesCluster.csv
+* readme.txt
+    
+The folder SpectralClustering contains:
+* spectral_clustering.py
+* Kmeans_eucl.py
+* LanczosSolver.py
+* EastWestAirlinesCluster.csv
+* readme.txt
 
-Kmeans_clustering.py is the main program containing answers for 1a) and 1b) of the project.
-readme.txt explains how to use Kmeans_clustering.py.
+### Dependencies
 
-2) The folder SpectralClustering contains:
+To run the program you need to make sure that you have installed the Python package below:
+* numpy
+* scipy
+* pandas
+* sklearn
+* matplotlib
+* seaborn
+* plotly
+* time
+* csv
 
-	---------------readme.txt-------------
-	---------spectral_clustering.py-------
-	------------Kmeans_eucl.py------------
-	-----------LanczosSolver.py-----------
-	------EastWestAirlinesCluster.csv-----
+### Executing program
 
-spectral_clustering.py is the main program containing answers for 2a) and 2b) of the project.
-readme.txt explains how to use spectral_clustering.py.
+Please follow the instructions in the readme.txt file under each folder to run the program.
+
